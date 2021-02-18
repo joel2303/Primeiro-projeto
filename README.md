@@ -1,2 +1,2 @@
-# Primeiro projeto
- Primeiro repositório aprendendo a usar o Git e Github
+# Olá, pessoal !
+ Este é um repositório criado durante uma aula aprendendo a usar o Git e o Github.
